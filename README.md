@@ -1,2 +1,2 @@
 # vimconfig
-just my vim config , so i can pull to servers.
+just my vim config , so i can clone to servers.
